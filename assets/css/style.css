@@ -1,0 +1,13 @@
+/* Libs */
+@import "./bootstrap/bootstrap.css";
+
+@import "./global.css";
+@import "./header.css";
+@import "./nav.css";
+@import "./features.css";
+@import "./operations.css";
+@import "./testimonials.css";
+@import "./slider.css";
+@import "./footer.css";
+@import "./sign-up.css";
+@import "./modal.css";

@@ -1,0 +1,9 @@
+algoritmo de desenvolvimento
+
+
+
+
+- ajustar a responsividade 
+- ajustar de maneira organizada o style.css, e o script.js de maneira que não conflite com a página HOME
+- criar a função de Criar conta e relacionar com objeto no script e estabelecer o balanço da conta e etc...
+- criar feedbacks visuais ao tentar acessar a conta, ao tentar transferir ou emprestar, e tb fechar a conta....
