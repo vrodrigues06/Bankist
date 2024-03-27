@@ -391,7 +391,7 @@ export default function initApp() {
   // ? if its online
   //? if (window.location.pathname === "/")
 
-  if (window.location.pathname === "/") {
+  if (window.location.pathname === "/Bankist/") {
     const form = document.querySelector(".modal__form");
     const btnSubmit = form.querySelector(".btn");
 
